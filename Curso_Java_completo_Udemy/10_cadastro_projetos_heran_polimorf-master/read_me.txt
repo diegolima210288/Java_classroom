@@ -1,0 +1,1 @@
+Cadastro de produtos simples, importados e usados. Exercitando técnica de herança e polimorfismos.
