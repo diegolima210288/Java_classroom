@@ -1,0 +1,1 @@
+Program de cadastro de funcionarios de uma empresa com dois tipos de funcionarios: tercerizados e próprios. Exercitando herança e polimorfismo.
