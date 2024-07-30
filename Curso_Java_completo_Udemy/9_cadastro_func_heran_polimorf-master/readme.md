@@ -1,4 +1,4 @@
-Explicação em Português
+## Explicação em Português
 
 Este diretório contém um pequeno projeto, em linguagem Java, de cadastro de funcionários, conforme classificação terceiros ou internos.
 
@@ -10,7 +10,7 @@ O objeto deste projeto é praticar os recursos de linguagem e as técnicas de PO
 
 
 
-Explanation in English
+## Explanation in English
 
 This directory contains a small project, in Java language, for registering employees, according to their classification as third parties or internal employees.
 
