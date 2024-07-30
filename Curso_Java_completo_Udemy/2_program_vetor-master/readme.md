@@ -1,4 +1,4 @@
-Explicação em Português
+## Explicação em Português
 
 Este diretório contém um pequeno código, em linguagem Java, que calcula a média da altura de um determinado número de pessoas.
 
@@ -10,7 +10,7 @@ O objeto deste código é a pratica da linguagem e a utilização da plataforma 
 
 
 
-Explanation in Inglish
+## Explanation in Inglish
 
 This directory contains a small code, in Java language, that calculates the average height of a certain number of people.
 
