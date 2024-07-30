@@ -1,4 +1,4 @@
-Explicação em Português
+## Explicação em Português
 
 Este diretório contém um pequeno projeto, em linguagem Java, de cadastro de cliente (nome, e-mail, data de nascimento) e seus pedidos (status e dados dos produtos (nome, preço e quantidade)).
 
@@ -10,7 +10,7 @@ O objeto deste projeto é praticar os recursos de linguagem e as técnicas de PO
 
 
 
-Explanation in Inglish
+## Explanation in Inglish
 
 This directory contains a small project, in Java language, for customer registration (name, email, date of birth) and their orders (status and product data (name, price and quantity)).
 
