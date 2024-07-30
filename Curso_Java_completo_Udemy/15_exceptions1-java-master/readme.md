@@ -1,4 +1,4 @@
-Explicação em Português
+## Explicação em Português
 
 Este diretório contém um pequeno projeto em linguagem Java.
 
@@ -6,7 +6,7 @@ O objetivo deste projeto é praticar a linguagem e tratamento de erros.
 
 
 
-Explanation in English
+## Explanation in English
 
 This directory contains a small Java language project.
 
