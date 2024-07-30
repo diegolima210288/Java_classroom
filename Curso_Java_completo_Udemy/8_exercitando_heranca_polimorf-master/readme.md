@@ -1,4 +1,4 @@
-Explicação em Português
+## Explicação em Português
 
 Este diretório contém um pequeno projeto, em linguagem Java, de cadastro dos dados de conta bancaria, conforme classificação simples ou negócio.
 
@@ -11,7 +11,7 @@ O objeto deste projeto é praticar os recursos de linguagem e as técnicas de PO
 
 
 
-Explanation in English
+## Explanation in English
 
 This directory contains a small project, in Java language, for registering bank account data, according to simple or business classification.
 
