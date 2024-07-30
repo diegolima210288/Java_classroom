@@ -1,4 +1,4 @@
-Explicação em Português
+## Explicação em Português
 
 Este diretório contém um pequeno código em linguagem Java.
 
@@ -6,7 +6,7 @@ E o objeto deste código é a pratica da linguagem e a utilização da plataform
 
 
 
-Explanation in English
+## Explanation in English
 
 This directory contains a small code in Java language.
 
