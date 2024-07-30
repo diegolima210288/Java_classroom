@@ -1,4 +1,4 @@
-Explicação em Português
+## Explicação em Português
 
 Este diretório contém um pequeno projeto, em linguagem Java, que retornar a area de retângulo ou circulo conforme dados informados.
 
@@ -6,7 +6,7 @@ O objetivo deste projeto é praticar técnicas de herança, polimorfismo e compo
 
 
 
-Explanation in English
+## Explanation in English
 
 This directory contains a small project, in Java language, that returns the area of ​​a rectangle or circle according to the data entered.
 
