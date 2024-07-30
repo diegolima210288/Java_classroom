@@ -1,4 +1,4 @@
-Explicação em Português
+## Explicação em Português
 
 Este diretório contém um pequeno projeto, em linguagem Java, de criar um cadastro de produtos. Categorizados em simples, importados e usados.
 
@@ -6,7 +6,7 @@ O objetivo deste projeto é praticar técnica de herança e polimorfismo de prog
 
 
 
-Explanation in English
+## Explanation in English
 
 This directory contains a small project, in Java language, to create a product registry. Categorized as simple, imported and used.
 
