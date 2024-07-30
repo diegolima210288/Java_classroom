@@ -1,4 +1,4 @@
-Explicação em Português
+## Explicação em Português
 
 Este diretório contém um pequeno projeto, em linguagem Java, de cadastro de funcionários (id, nome e salário).
 
@@ -14,7 +14,7 @@ O objeto deste projeto é a praticar os recursos da linguagem Java.
 
 
 
-Explanation in English
+## Explanation in English
 
 This directory contains a small project, in Java language, for registering employees (id, name and salary).
 
